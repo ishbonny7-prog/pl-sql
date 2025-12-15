@@ -49,7 +49,10 @@ The **Hotel Management System** is an Oracle database application designed to ma
 ---
 
 ## 📂 Project Structure
-[Full implementation scrip](<images/project.sql>)
+[Full implementation script](<images/project.sql>)
+
+## Business Process Modeling
+
 
 
 ## ▶️ How to Run
