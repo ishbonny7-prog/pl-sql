@@ -1,28 +1,70 @@
- Employee Bonus system
+# 🏨 Hotel Management System
 
-Name: ishimwe bonny
+**PL/SQL Oracle Database Capstone Project**
 
-ID:27817 
+---
 
-Description
-This project demonstrates how to use **PL/SQL Collections**, **Records**, and **GOTO statements** together.  
-The program calculates employee bonuses while skipping invalid salary entries using PL/SQL control structures.
+## 👤 Student Information
+
+* **Name:** Ishimwe Bonny
+* **Student ID:** 27878
+* **Course:** Database Development with PL/SQL
+* **Academic Year:** 2025–2026
+
+---
+
+## 📌 Project Overview
+
+The **Hotel Management System** is an Oracle database application designed to manage hotel operations such as rooms, customers, bookings, payments, employees, and auditing. The project demonstrates practical use of **SQL, PL/SQL, triggers, and analytics** following real-world business rules.
+
+---
+
+## 🎯 Objectives
+
+* Automate hotel booking and room management
+* Ensure data integrity and consistency
+* Enforce business rules using PL/SQL triggers
+* Provide auditing and analytical reporting
+
+---
+
+## 🛠 Technologies Used
+
+* Oracle Database (CDB / PDB)
+* PL/SQL
+* Oracle SQL Developer
+* Docker
+* GitHub
+
+---
+
+## 🧩 Key Features
+
+* Normalized database design (3NF)
+* Stored procedures, functions, packages
+* Business rule enforcement (weekday & holiday restrictions)
+* Audit logging for employee actions
+* Analytical SQL queries
+
+---
+
+## 📂 Project Structure
+[Full implementation scrip](<images/project.sql>)
 
 
- Features
-- Record Type**:  Defines employee structure (ID, name, salary, bonus)
-- Nested Table Collection**:  Stores multiple employee records in memory
-- GOTO Control Flow**: Skips employees with invalid salaries
-- DBMS_OUTPUT**: Prints formatted report to console 
-- Bulk Collect + Update**: Loads and updates employee data efficiently
+## ▶️ How to Run
 
+1. Start Oracle Database using Docker
+2. Connect with Oracle SQL Developer
+3. Switch to the project PDB
+4. Run SQL scripts in order (tables → data → PL/SQL → triggers)
 
- Description
+---
 
-| File Name           | Purpose  |
-|--------------------|-----------------------|
-| `create_table.sql`   | Creates the `employees` table and inserts employee records with salaries.|
-| `calculate_bonus.sql`    | Contains the stored procedure that loads employees into a collection, calculates bonus amounts, skips invalid salaries using `GOTO`, and updates the database. |
-| `display.sql`     | Contains the stored procedure that prints employees data (ID, name, salary, bonus) using `DBMS_OUTPUT`.|
-| `run.sql`       | Runs the program by calling both procedures: calculates bonuses then displays results. |
+## ✅ Conclusion
 
+This project successfully implements a **complete Hotel Management System** using Oracle Database and PL/SQL and fulfills all capstone project requirements.
+
+---
+
+🎓 *End of Project*
