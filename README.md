@@ -57,7 +57,52 @@ The **Hotel Management System** is an Oracle database application designed to ma
 ## ER DIAGRAM
 ![](<images/er diagram .png>)
 
+## PHASE IV : DATABASE CREATION
+## PDB CREATION
+![](<images/pdb1 .png>)
+![](<images/pdb2 .png>)
+## TABLESPACES
+![](<images/table space .png>)
+## USER CREATION
+![](<images/user .png>)
+## PHASE V: Table Implementation and Data Insertion
+![](<images/rooms.png>)
+![](<images/room types.png>)
+![](<images/booking table.png>)
+![](<images/customer table.png>)
+![](<images/empl table.png>)
+![](<images/holyday table.png>)
+![](<images/payment table .png>)
+![](<images/booking table.png>)
+## DATA INSERTION
+![](<images/insert. room_types.png>)
+![](<images/insert payment .png>)
+![](<images/insert empl.png>)
+![](<images/insert customer .png>)
+![](<images/insert booking .png>)
+## PHASE VI: DATA INTERACTION AND TRANSACTIONS
+## PROCEDURES
+![](<images/add pro.png>)
+![](<images/create booking proc.png>)
+![](<images/cancel booking proc.png>)
+## FUNCTIONS
+![](<images/funct booking .png>)
+![](<images/total fun.png>)
+![](<images/valid fun.png>)
+## CURSOR
+![](<images/cursor.png>)
+## PACKAGES
+![](<images/package body .png>)
+![](<images/new booking package .png>)
+## WINDOW FUNCTION
+![](<images/window fun.png>)
 
+## PHASE VII: ADVANCED PROGRAMMING AND AUDITING
+![](<images/simple triger.png>)
+![](<images/trigger .png>)
+## TESTING
+![](<images/triger testing .png>)
+![](<images/>)
 ## ▶️ How to Run
 
 1. Start Oracle Database using Docker
