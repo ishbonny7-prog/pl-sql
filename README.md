@@ -16,7 +16,7 @@
 ## 📌 Project Overview
 
 The **Hotel Management System** is an Oracle database application designed to manage hotel operations such as rooms, customers, bookings, payments, employees, and auditing. The project demonstrates practical use of **SQL, PL/SQL, triggers, and analytics** following real-world business rules.
-
+## [PPT PRESENTATION](<Hotel_Management_System_10_Slides_Ishimwe_Bonny_27878 (3).pptx>)
 ---
 
 ## 🎯 Objectives
