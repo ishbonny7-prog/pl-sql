@@ -54,6 +54,9 @@ The **Hotel Management System** is an Oracle database application designed to ma
 ## Business Process Modeling
 ![](<images/bussiness model .png>)
 
+## ER DIAGRAM
+![](<images/er diagram .png>)
+
 
 ## ▶️ How to Run
 
