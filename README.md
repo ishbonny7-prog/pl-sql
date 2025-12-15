@@ -56,7 +56,8 @@ The **Hotel Management System** is an Oracle database application designed to ma
 
 ## ER DIAGRAM
 ![](<images/er diagram .png>)
-
+## ORACLE ENTERPRISE MANAGER
+![](<images/OEM.jpeg>)
 ## PHASE IV : DATABASE CREATION
 ## PDB CREATION
 ![](<images/pdb1 .png>)
